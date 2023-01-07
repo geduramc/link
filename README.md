@@ -1,4 +1,4 @@
-# link.geduramc.com
+# link.geduramc
 Url shortener by geduramc &#9749;
 
 ![GitHub issues](https://img.shields.io/github/issues/geduramc/link)
